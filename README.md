@@ -11,6 +11,7 @@
 <h2>Como Jogar:</h2>
 <ul>
     <li>Clone este repositório (porque você quer fazer parte dessa epopeia).</li>
+    <li>Abra o arquivo executável (É simples, juro).</li>
     <li>Execute o jogo usando seu interpretador Python favorito (porque quem precisa de um motor de jogo sofisticado, afinal?).</li>
 </ul>
 
