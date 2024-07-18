@@ -17,7 +17,7 @@
 <h2>Problemas Conhecidos:</h2>
 <ul>
     <li>Podem ocorrer alguns erros na mochila. Okay, é um pouco instável.</li>
-    <li>Os gráficos podem não ser tão retrô-cool quanto você esperava. Culpe a falta de habilidades artísticas do desenvolvedor.</li>
+    <li>Os gráficos podem não ser tão retrô-cool quanto você esperava (Até porque não tem gráfico). Culpe a falta de habilidades artísticas do desenvolvedor.</li>
     <li>As batalhas podem não fazer sentido. Ou ser muito difíceis. Ou muito fáceis. É, é um trabalho em progresso.</li>
 </ul>
 
