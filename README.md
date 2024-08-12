@@ -26,7 +26,7 @@
 <p>Quer ajudar a tornar este jogo ainda mais épico? (OU PELO MENOS UM JOGO DE VERDADE) Fork este repositório, faça algumas alterações e envie uma solicitação de pull!</p>
 
 <h2>Licença:</h2>
-<p>Este jogo é licenciado sob a Licença MIT, o que significa que você pode fazer praticamente qualquer coisa com ele. Só não venda e alegue que é seu, okay? (Quem venderia essa porcaria?)</p>
+<p>Este jogo é licenciado sob a Licença MIT, o que significa que você pode fazer praticamente qualquer coisa com ele. Só não venda e alegue que é seu, okay?</p>
 
 <footer>
     <h2>Nota do Desenvolvedor:</h2>
